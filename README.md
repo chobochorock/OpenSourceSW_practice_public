@@ -1,3 +1,3 @@
 # OpenSourceSW_practice_public
-Copyright and license : 
+Copyright and license : \n
 distributor or author : 
